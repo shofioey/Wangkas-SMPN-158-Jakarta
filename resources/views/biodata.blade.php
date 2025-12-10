@@ -22,7 +22,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card shadow bio-card p-3">
                     <h5 class="fw-semibold">Nama Sekolah</h5>
-                    <p class="mb-0">SMA Negeri 9 Kota Bogor</p>
+                    <p class="mb-0">SMPN 158 Jakarta</p>
                 </div>
             </div>
 
@@ -30,7 +30,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card shadow bio-card p-3">
                     <h5 class="fw-semibold">Alamat</h5>
-                    <p class="mb-0"> Jln Kartini No. 1, Kecamatan Bogor Tengah, Kota Bogor.</p>
+                    <p class="mb-0"> Jl. Tubagus Badaruddin No.47b 1, Kecamatan Pulo Gadung, Kota Jakarta Timur.</p>
                 </div>
             </div>
 
@@ -46,25 +46,26 @@
             <div class="col-md-6 col-lg-4">
                 <div class="card shadow bio-card p-3">
                     <h5 class="fw-semibold">Kepala Sekolah</h5>
-                    <p class="mb-0">Ibu Rini Listari, S.Pd., M.Pd.</p>
+                    <p class="mb-0">Titah Sunarlestari,M.Pd</p>
                 </div>
             </div>
 
-            {{-- Gedung Sekolah --}}
+            {{-- Telepon --}}
             <div class="col-md-6 col-lg-4">
                 <div class="card shadow bio-card p-3">
-                    <h5 class="fw-semibold">Gedung Sekolah 1</h5>
+                    <h5 class="fw-semibold">Telepon</h5>
                     <p class="mb-0">
-                        Gedung Mantarena, berlokasi di Jalan Mantarena No. 10.
+                        (021) 4721772
                     </p>
                 </div>
             </div>
 
+            {{-- NPSN --}}
             <div class="col-md-6 col-lg-4">
                 <div class="card shadow bio-card p-3">
-                    <h5 class="fw-semibold">Gedung Sekolah 2</h5>
+                    <h5 class="fw-semibold">Nomor Pokok Sekolah Nasional</h5>
                     <p class="mb-0">
-                        Gedung Kartini, berlokasi di Jalan Kartini No. 1.
+                        20103489
                     </p>
                 </div>
             </div>

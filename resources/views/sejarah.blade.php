@@ -38,22 +38,21 @@
                 <div class="card shadow history-card">
 
                     <h2 class="history-title mb-4 text-center">
-                        Sejarah SMA Negeri 9 Kota Bogor
+                        Sejarah SMPN 158 Jakarta Timur
                     </h2>
 
                     <p class="history-text">
-                        Bangunan SMAN 9 Bogor memiliki sejarah panjang yang dimulai sejak era kolonial Belanda,
-                        di mana gedung tersebut awalnya dikenal sebagai <strong>Kartini School</strong> atau
-                        <strong>Sekolah Kartini</strong>, yang didirikan secara resmi pada tanggal <strong>2 Mei 1915</strong>.
-                        Pada zamannya, sekolah ini merupakan institusi pendidikan eksklusif yang ditujukan khusus
-                        bagi anak perempuan pribumi dari kalangan berada.
+                        SMP Negeri 158 Jakarta berdiri pada 13 Oktober 1975 di Jatinegara Kaum, Pulogadung, Jakarta Timur, 
+                        dan merupakan sekolah negeri yang berkomitmen memberikan pendidikan berkualitas dengan lingkungan kondusif 
+                        serta guru berpengalaman untuk mencetak siswa berkarakter. Sekolah ini memiliki Nomor Pokok Sekolah Nasional 
+                        (NPSN) 20103489 dan terus mengembangkan diri untuk memenuhi tuntutan zaman dalam dunia pendidikan. 
                     </p>
 
                     <p class="history-text mt-3">
-                        Setelah melalui perjalanan sejarah panjang dan perubahan fungsi bangunan pasca kemerdekaan,
-                        <strong>SMAN 9 Bogor resmi didirikan pada Mei 2001</strong> sebagai filial dari SMAN 6 Bogor.
-                        Kini sekolah ini telah menjadi institusi mandiri yang berfokus pada pendidikan karakter,
-                        prestasi akademik dan non-akademik, serta kesiapan menghadapi tantangan global.
+                        <strong>Informasi Tambahan: </strong>
+                        Informasi Tambahan:
+                        Sekolah ini telah memiliki SK Pendirian Sekolah dengan nomor 027/2003 tertanggal 17 Desember 2002, serta SK Izin Operasional 020492 tertanggal 22 Oktober 2012.
+                        Sebagai bagian dari sistem pendidikan nasional, SMPN 158 Jakarta terus berupaya meningkatkan mutu pendidikan sesuai dengan perkembangan zaman. 
                     </p>
 
                 </div>
@@ -66,27 +65,38 @@
             {{-- Card Visi --}}
             <div class="col-lg-5">
                 <div class="card shadow visi-misi-card h-100">
-                    <h2 class="visi-misi-title mb-3 text-center">Visi SMAN 9 Bogor</h2>
+                    <h2 class="visi-misi-title mb-3 text-center">Visi SMPN 158 Jakarta</h2>
 
                     <p class="visi-misi-text">
-                        Visi sekolah ini diwujudkan melalui berbagai misi yang mengarah pada pembentukan generasi yang:
-                        <strong>bertakwa, cerdas, berkarakter, menguasai IPTEK, berwawasan lingkungan,</strong>
-                        dan memiliki <strong>daya saing global</strong>.
+                        Terwujudnya Insan Berimtaq, Bernalar kritis, Kreatif, Berprestasi, Peduli lingkungan 
+                        dan Berwawasan IPTEK sesuai Dimensi Profil Lulusan.
                     </p>
+                    <p><strong>Indikator Visi: </strong></p>
+                    <ul>
+                        <li>Insan yang beriman dan bertaqwa kepada Tuhan YME serta berakhlak mulia.</li>
+                        <li>Implementasi pembelajaran mendalam utk mengembangkan 8 dimensi profil kelulusan.</li>
+                        <li>Lulusan yang berprestasi akademik dan non akademik.</li>
+                        <li>Sekolah ramah anak dan adiwiyata.</li>
+                        <li>Unggul dalam pengembangan dan pemanfaatan Ilmu Pengetahuan dan Teknologi.</li>
+                    </ul>
                 </div>
             </div>
 
             {{-- Card Misi --}}
             <div class="col-lg-5">
                 <div class="card shadow visi-misi-card h-100">
-                    <h2 class="visi-misi-title mb-3 text-center">Misi SMAN 9 Bogor</h2>
+                    <h2 class="visi-misi-title mb-3 text-center">Misi SMPN 158 Jakarta</h2>
 
                     <ul class="misi-list">
-                        <li>Meningkatkan keimanan dan ketakwaan siswa.</li>
-                        <li>Menanamkan dan memperkuat karakter unggul.</li>
-                        <li>Meningkatkan prestasi akademik serta non-akademik.</li>
-                        <li>Mengoptimalkan pemanfaatan IPTEK dalam pembelajaran.</li>
-                        <li>Mengembangkan budaya sekolah yang sehat dan berwawasan lingkungan.</li>
+                        <li>Memantapkan penghayatan dan pengamalan agama.</li>
+                        <li>Melaksanakan Proses pembelajaran memdalan yang berpijak pada 8 dimensi profil kelulusan.</li>
+                        <li>Membina peserta didik unggul dalam prestasi akademis dan nonakademis.</li>
+                        <li>Pemanfaatan lingkungan sekolah sebagai tempat dan sumber belajar.</li>
+                        <li>Mewujudkan kepedulian sosial melalui pembentukan sikap toleransi, anti kekerasan, dan empati.</li>
+                        <li>Menciptakan lingkungan sekolah yang bersih, sehat, hijau dan asri berdasarkan kearipan lokal.</li>
+                        <li>Meningkatkan kepedulian dan partisipasi seluruh warga sekolah terhadap kebersihan dan kesehatan lingkungan sekolah.</li>
+                        <li>Menerapkan inovasi pembelajaran mendalam berbasis teknologi dan kemitraan.</li>
+                        <li>Menyiapkan peserta didik menjadi generasi penerus yang berkualitas menguasai tekhnologi menuju indonesia emas.</li>
                     </ul>
                 </div>
             </div>

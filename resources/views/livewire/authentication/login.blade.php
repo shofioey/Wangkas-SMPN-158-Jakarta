@@ -65,7 +65,9 @@
 
       {{-- Right Column --}}
       <div class="col-lg-7 d-none d-lg-block">
-        <div id="auth-right"></div>
+        <div id="auth-right">
+          <img src="{{ asset('Halaman_Depan.jpeg') }}" alt="Foto Sekolah" class="img-fluid h-100 w-100" style="object-fit: cover; border-radius: 10px;">
+        </div>
       </div>
     </div>
   </div>
